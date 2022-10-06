@@ -1,0 +1,113 @@
+body{
+    background-color: #FFFAE7;
+    background-image: url('bgimage.webp');
+}
+h1{
+    margin: 60px;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: rgb(26, 156, 9);
+}
+.images p{
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(26, 156, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: none;
+    color: rgb(26, 156, 9);
+}
+a:hover{
+    background-color: #FFFAE7;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 400px;
+}
+.images1{
+    margin-right: 30px;
+}
+
+.firstsection{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 200px;
+   
+}
+.outro{
+    margin: 100px 30px 100px 30px  ;
+}
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    color: #3CCF4E;
+}
+
+.header{
+    margin-top: 70px;
+    margin-left: 200px;
+    width: 35%;
+    /* background-color: #FF884B; */
+}
+.displayresult{
+    margin: 40px auto 50px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 44px;
+}
+.title{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 44px;
+}
+.intropara{
+    text-align: center;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2;
+}
+
+h2{
+    text-align: center;
+    margin-top: 95px;
+    margin-left: 200px;
+    color: #3CCF4E;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 44px;
+
+}
+.dice1{
+    width:9%;
+    height: 80px;
+    background-color: red;
+    margin-top: 140px;
+    position: relative;
+    right: 190px;
+    top: 20px;
+}
+.dice2{
+    width: 9%;
+    height: 80px;
+    background-color: red;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    right: 170px;
+
+}
+.outropara{
+    text-align: right;
+    font-size: 1em;
+    font-weight: bold;
+    color: #3CCF4E;
+}
